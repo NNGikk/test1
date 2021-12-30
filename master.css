@@ -267,7 +267,7 @@ input[type="submit"]:hover{
 
 
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 425px){
 .types-of-sofas{flex-direction: column;}
 .other-dry-cleaning{flex-direction: column;}
 .service-quality{flex-direction: column;}
